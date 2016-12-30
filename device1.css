@@ -1,0 +1,57 @@
+body
+{
+	background-image: url("19.jpg");
+	
+}
+.div1
+{
+	width:50%;
+	height:auto;
+	background-color: rgba(200,0,212,0.2);
+	padding: 50px;
+	display: flex;
+	justify-content: space-between;
+	margin-left:20%;
+	margin-top:5%;
+	box-shadow: 15px 15px 20px rgba(150,155,212,0.3);
+
+
+}
+
+.s1,.button
+{
+		width: 30%;
+		height: 15%;
+		font-family: Courier;
+		font-size: 30px;
+		border-radius: 20px;
+		font-weight: bold;
+		padding:20px;
+		background-color: rgba(180,100,100,0.5);
+		border-collapse: collapse;
+}
+
+.url
+{
+		width: 35%;
+		height: 5%;
+		margin:auto;
+		padding: 20px;
+		font-family: Courier;
+		font-size: 20px;
+		border-radius: 10px;
+		font-weight: bold;
+}
+
+.iframe
+{
+	margin-top: 4%;	
+	visibility: hidden;
+}
+
+.phone
+{
+	position: relative;
+	background-repeat: no-repeat;
+	margin: auto;
+}
