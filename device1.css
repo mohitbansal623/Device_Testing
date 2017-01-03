@@ -8,27 +8,27 @@ body
 	width:50%;
 	height:auto;
 	background-color: rgba(200,0,212,0.2);
-	padding: 50px;
+	padding: 30px;
 	display: flex;
 	justify-content: space-between;
 	margin-left:20%;
-	margin-top:5%;
-	box-shadow: 15px 15px 20px rgba(150,155,212,0.3);
+	margin-top:3%;
+	/*box-shadow: 15px 15px 20px rgba(150,155,212,0.3);*/
 
 
 }
 
 .s1,.button
 {
-		width: 30%;
-		height: 15%;
+		width: 25%;
+		height: 8%;
 		font-family: Courier;
-		font-size: 30px;
+		font-size: 25px;
 		border-radius: 20px;
-		font-weight: bold;
-		padding:20px;
+		padding:10px;
 		background-color: rgba(180,100,100,0.5);
 		border-collapse: collapse;
+		color: white;
 }
 
 .url
@@ -51,7 +51,5 @@ body
 
 .phone
 {
-	position: relative;
 	background-repeat: no-repeat;
-	margin: auto;
 }
